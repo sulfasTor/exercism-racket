@@ -1,0 +1,3 @@
+* Exercism Racket
+
+This repo contains my solutions for the challenges from Exercism in the Racket langage.
